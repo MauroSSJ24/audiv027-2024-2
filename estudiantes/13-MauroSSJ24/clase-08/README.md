@@ -34,40 +34,34 @@ PROCESO PASO A PASO:
 x.- Planteamiento del experimento e idea base para el posterior plan de accion para lograr el objetivo que nos propusimos.
 
 
-x.- Preparacion de los materiales para las muestras del modelo
+x.- Preparamos y buscamos cada uno de los materiales que necesitabamos para poder realizar el proyecto
 ![2](https://github.com/user-attachments/assets/ed61b34f-a7cb-4bf1-a453-ee7cf52ac140)
 
 
-x.-
 
 
-
-x.- Creacion de las muestras 
+x.- En Teachable machine creamos las muestras necesarias para poder programar lo que queríamos teniendo 3 elementos,2 de ellos son los principales (Coca Cola y Pepsi) y el 3 elemento eraa cualquier objeto diferente a estos  
 ![1](https://github.com/user-attachments/assets/797423cd-10b9-4da7-a2c9-d23016fca893)
 
-x.-
 
 
 
-x.- Entrenamiento de Teacheable Machine, una vez ya tomadas las muestras.
+
+x.- Una vez teniendo las muestras necesarias hicimos el entrenamiento del codigo para que funcionara según nos lo habíamos planteado
 ![PROCESO 1_entrenamiento modelo (2)](https://github.com/user-attachments/assets/98417ffd-9eba-4d09-833b-0e6d9544a8fa)
 
 
-
-x.-
 ![Modelo entrenado_](https://github.com/user-attachments/assets/903e3054-a7af-42af-bbe9-40c842cdf688)
 
-x.-
-
-x.-
 
 
-x.- Descarga y exportacion del Modelo Entrenado para su posterior Programacion en p5.js
+
+x.- Una vez que obtuvimos el resultado que se necesitaba, continuamos a descargar y exportar el Modelo Entrenado para su Programacion en p5.js
 ![pasopara descargar modelo](https://github.com/user-attachments/assets/93cd38dd-52e2-445b-aef2-91b2c13fac61)
 
-x.-
+x.- Una vez descargado el código pasamos a editarlo para con ello lograr que funcionara de manera optima, basaandonos en los apuntes de la clase 6 en la cual hicimos un ejercicio similar 
 
-x.-
+x.- Una vez logrados todos los cambios y esperando que todo funcionara lo hicimos correr para ver si el resultado del código era el correcto, sin embargo no nos funcionaba, lo volvimos a revisar pero nunca encontramos el error, consultamos el codigo de Vixo46 ya que estaban haciendo un proyecto similar al nuestro, lo consultamos para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder hacer correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos nos dimos cuenta que nuestro código en si no tenia ningún error, por lo que se nos hacia extraño que no funcionara, lo volvimos a revisar una vez más y guardamos el código y al hacer ese movimiento logramos que nuestro código funcionara, nuestro error era NO GUARDAR nuestro código
 
 
 
@@ -77,8 +71,8 @@ x.-
 
 CONCLUSIONES:
 
-Nos basamos en el ejemplo de Vixo46 para arreglar los errores de p5 del codigo entrenado. Copiamos y destruimos su codigo para adaptarlo al nuestro, para poder correr nuestro codigo, logrando que funcione. Luego al seguir revisando y corroborando paso a paso los dos codigos, nos dimos cuenta que NO GUARDAMOS EL COGIDO DENTRO DE P5, lo que nos generaba el error y no funcionaba el codigo. (la mala costumbre de no guardar) Recordatorio: SIEMPRE APRETAR CTRL + S EN P5 DESDE UN PRINCIPIO.
-
+Durante el desarrollo de este proyecto logramos mejorar nuestras habilidades para poder programar los códigos, saber que es lo que necesitamos quitar, pero nuestra principal enseñanza es que SIEMPRE debemos guardar cada uno de los cambios que hagamos al programar, APRETAR CTRL + S EN P5 ya que sin esto, nuestro código nunca funcionará
+ 
 
 
 
